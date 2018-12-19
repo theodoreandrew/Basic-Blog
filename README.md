@@ -1,7 +1,10 @@
-<strong>Basic Blog Project</strong>
+<h1>Basic Blog Project</h1>
+<br></br>
 
-This is my very first FullStack project. This website allow people to post anything and view other people's post.
+<p>This is my very first FullStack project. This website allow people to post anything and view other people's post.</p>
 
-FrontEnd technology: HTML5, CSS5, SemanticUI
-BackEnd technology: NodeJS, ExpressJS, REST
-Database: mongoDB
+<ul>
+  <li>FrontEnd technology: HTML5, CSS5, SemanticUI</li>
+  <li>BackEnd technology: NodeJS, ExpressJS, REST</li>
+  <li>Database: mongoDB</li>
+</ul>
